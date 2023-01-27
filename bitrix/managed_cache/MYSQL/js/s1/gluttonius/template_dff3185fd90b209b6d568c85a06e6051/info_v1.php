@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/gluttonius/vendor/bootstrap/js/bootstrap.bundle.js" => "162507606681084","/local/templates/gluttonius/vendor/jquery/jquery.js" => "162507606689476","/local/templates/gluttonius/vendor/jquery.fancybox/jquery.fancybox.js" => "162507606668253","/local/templates/gluttonius/js/script.js" => "162507606632",]; ?>
